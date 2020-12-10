@@ -1,0 +1,11 @@
+D:\Study\Univer\ООП(3-тя мова)\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+D:\Study\Univer\ООП(3-тя мова)\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+D:\Study\Univer\ООП(3-тя мова)\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+D:\Study\Univer\ООП(3-тя мова)\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojAssemblyReference.cache
+D:\Study\Univer\ООП(3-тя мова)\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Form1.resources
+D:\Study\Univer\ООП(3-тя мова)\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+D:\Study\Univer\ООП(3-тя мова)\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+D:\Study\Univer\ООП(3-тя мова)\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+D:\Study\Univer\ООП(3-тя мова)\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+D:\Study\Univer\ООП(3-тя мова)\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+D:\Study\Univer\ООП(3-тя мова)\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Form2.resources
